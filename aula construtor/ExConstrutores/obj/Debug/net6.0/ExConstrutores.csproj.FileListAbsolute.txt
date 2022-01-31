@@ -1,0 +1,15 @@
+D:\projetos.net\aula construtor\ExConstrutores\bin\Debug\net6.0\ExConstrutores.exe
+D:\projetos.net\aula construtor\ExConstrutores\bin\Debug\net6.0\ExConstrutores.deps.json
+D:\projetos.net\aula construtor\ExConstrutores\bin\Debug\net6.0\ExConstrutores.runtimeconfig.json
+D:\projetos.net\aula construtor\ExConstrutores\bin\Debug\net6.0\ExConstrutores.dll
+D:\projetos.net\aula construtor\ExConstrutores\bin\Debug\net6.0\ref\ExConstrutores.dll
+D:\projetos.net\aula construtor\ExConstrutores\bin\Debug\net6.0\ExConstrutores.pdb
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.csproj.AssemblyReference.cache
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.AssemblyInfoInputs.cache
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.AssemblyInfo.cs
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.csproj.CoreCompileInputs.cache
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.dll
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ref\ExConstrutores.dll
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.pdb
+D:\projetos.net\aula construtor\ExConstrutores\obj\Debug\net6.0\ExConstrutores.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\projetos.net\Exercicios_praticos\bin\Debug\net6.0\Exercicios_praticos.exe
+D:\projetos.net\Exercicios_praticos\bin\Debug\net6.0\Exercicios_praticos.deps.json
+D:\projetos.net\Exercicios_praticos\bin\Debug\net6.0\Exercicios_praticos.runtimeconfig.json
+D:\projetos.net\Exercicios_praticos\bin\Debug\net6.0\Exercicios_praticos.dll
+D:\projetos.net\Exercicios_praticos\bin\Debug\net6.0\ref\Exercicios_praticos.dll
+D:\projetos.net\Exercicios_praticos\bin\Debug\net6.0\Exercicios_praticos.pdb
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.csproj.AssemblyReference.cache
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.AssemblyInfoInputs.cache
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.AssemblyInfo.cs
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.csproj.CoreCompileInputs.cache
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.dll
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\ref\Exercicios_praticos.dll
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.pdb
+D:\projetos.net\Exercicios_praticos\obj\Debug\net6.0\Exercicios_praticos.genruntimeconfig.cache

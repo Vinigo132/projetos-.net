@@ -1,0 +1,15 @@
+D:\projetos.net\herança\bin\Debug\net6.0\herança.exe
+D:\projetos.net\herança\bin\Debug\net6.0\herança.deps.json
+D:\projetos.net\herança\bin\Debug\net6.0\herança.runtimeconfig.json
+D:\projetos.net\herança\bin\Debug\net6.0\herança.dll
+D:\projetos.net\herança\bin\Debug\net6.0\ref\herança.dll
+D:\projetos.net\herança\bin\Debug\net6.0\herança.pdb
+D:\projetos.net\herança\obj\Debug\net6.0\herança.csproj.AssemblyReference.cache
+D:\projetos.net\herança\obj\Debug\net6.0\herança.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos.net\herança\obj\Debug\net6.0\herança.AssemblyInfoInputs.cache
+D:\projetos.net\herança\obj\Debug\net6.0\herança.AssemblyInfo.cs
+D:\projetos.net\herança\obj\Debug\net6.0\herança.csproj.CoreCompileInputs.cache
+D:\projetos.net\herança\obj\Debug\net6.0\herança.dll
+D:\projetos.net\herança\obj\Debug\net6.0\ref\herança.dll
+D:\projetos.net\herança\obj\Debug\net6.0\herança.pdb
+D:\projetos.net\herança\obj\Debug\net6.0\herança.genruntimeconfig.cache

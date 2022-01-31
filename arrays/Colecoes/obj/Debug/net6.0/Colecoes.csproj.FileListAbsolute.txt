@@ -1,0 +1,15 @@
+D:\projetos.net\arrays\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\projetos.net\arrays\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\projetos.net\arrays\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\projetos.net\arrays\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\projetos.net\arrays\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+D:\projetos.net\arrays\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\projetos.net\arrays\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

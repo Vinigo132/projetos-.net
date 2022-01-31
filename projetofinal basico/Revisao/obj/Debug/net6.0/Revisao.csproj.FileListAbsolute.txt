@@ -1,0 +1,15 @@
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+D:\projetos.net\projetofinal basico\Revisao\bin\Debug\net6.0\Revisao.exe
+D:\projetos.net\projetofinal basico\Revisao\bin\Debug\net6.0\Revisao.deps.json
+D:\projetos.net\projetofinal basico\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+D:\projetos.net\projetofinal basico\Revisao\bin\Debug\net6.0\Revisao.dll
+D:\projetos.net\projetofinal basico\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+D:\projetos.net\projetofinal basico\Revisao\bin\Debug\net6.0\Revisao.pdb
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.dll
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.pdb
+D:\projetos.net\projetofinal basico\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
